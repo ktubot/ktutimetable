@@ -142,9 +142,9 @@ const examsDetails = {
     "S5": {
         "CS": [
             { "code": "CST301", "date": "August 25, 2024 09:30:00", "name": "Formal Languages & Automata Theory", "id": 1 },
-            {"code": "CST201", "date": "May 31, 2024 9:30:00", "name": "Data Structures", "id":2},
-            {"code": "CST203", "date": "June 5, 2024 9:30:00", "name": "Engineering Mechanics", "id":3},
-            {"code": "CST205", "date": "June 10, 2024 9:30:00", "name": "BME & BCE", "id":4},
+            {"code": "CST303", "date": "May 31, 2024 9:30:00", "name": "Data Structures", "id":2},
+            {"code": "CST305", "date": "June 5, 2024 9:30:00", "name": "Engineering Mechanics", "id":3},
+            {"code": "CST307", "date": "June 10, 2024 9:30:00", "name": "BME & BCE", "id":4},
             {"code": "HUT200/EST200", "date": "July 13, 2024 9:30:00", "name": "Design And Engineering / Professional Communication", "id":5},
             {"code": "MCN201", "date": "June 18, 2024 9:30:00", "name": "Sustainable Engineering", "id":6},
         ],
