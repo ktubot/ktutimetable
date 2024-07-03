@@ -1,6 +1,6 @@
 const tableBody = document.getElementById('table-body');
 const examsDetails = {
-        "S1": {
+    "S1": {
         "CS": [
             { "code": "MAT102", "date": "May 25, 2024 9:30:00", "name": "Vector Calculus, and Differential Equations and Transforms", "id": 1 },
             {"code": "CYT100", "date": "May 31, 2024 9:30:00", "name": "Engineering Chemistry", "id":2},
