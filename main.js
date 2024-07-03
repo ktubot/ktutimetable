@@ -2,8 +2,8 @@ const tableBody = document.getElementById('table-body');
 const examsDetails = {
     "S1": {
         "CS": [
-            { "code": "MAT102", "date": "May 26, 2024 9:30:00", "name": "Vector Calculus, and Differential Equations and Transforms", "id": 1 },
-            {"code": "CYT100", "date": "May 31, 2024 9:30:00", "name": "Engineering Chemistry", "id":2},
+            { "code": "MAT101", "date": "May 26, 2024 9:30:00", "name": "Linear Algebra And Calculus", "id": 1 },
+            {"code": "PHT100", "date": "May 31, 2024 9:30:00", "name": "Engineering Physics", "id":2},
             {"code": "EST100", "date": "June 5, 2024 9:30:00", "name": "Engineering Mechanics", "id":3},
             {"code": "EST120", "date": "June 10, 2024 9:30:00", "name": "BME & BCE", "id":4},
             {"code": "HUN102", "date": "July 13, 2024 9:30:00", "name": "Professional Communication", "id":5},
