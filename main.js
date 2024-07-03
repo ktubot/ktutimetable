@@ -6,7 +6,7 @@ const examsDetails = {
             {"code": "CYT100", "date": "May 31, 2024 9:30:00", "name": "Engineering Chemistry", "id":2},
             {"code": "EST100", "date": "June 5, 2024 9:30:00", "name": "Engineering Mechanics", "id":3},
             {"code": "EST120", "date": "June 10, 2024 9:30:00", "name": "BME & BCE", "id":4},
-            {"code": "HUN102", "date": "June 13, 2024 9:30:00", "name": "Professional Communication", "id":5},
+            {"code": "HUN102", "date": "July 13, 2024 9:30:00", "name": "Professional Communication", "id":5},
             {"code": "EST102", "date": "June 18, 2024 9:30:00", "name": "Programming in C", "id":6},
         ],
         "EC":[
@@ -35,7 +35,7 @@ const examsDetails = {
             {"code": "CYT100", "date": "May 31, 2024 9:30:00", "name": "Engineering Chemistry", "id":2},
             {"code": "EST100", "date": "June 5, 2024 9:30:00", "name": "Engineering Mechanics", "id":3},
             {"code": "EST120", "date": "June 10, 2024 9:30:00", "name": "BME & BCE", "id":4},
-            {"code": "HUN102", "date": "June 13, 2024 9:30:00", "name": "Professional Communication", "id":5},
+            {"code": "HUN102", "date": "July 13, 2024 9:30:00", "name": "Professional Communication", "id":5},
             {"code": "EST102", "date": "June 18, 2024 9:30:00", "name": "Programming in C", "id":6},
         ],
         "EC":[
